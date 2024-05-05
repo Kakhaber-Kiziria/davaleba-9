@@ -7,17 +7,16 @@
 	vertical-align: baseline;
 }
 #header {
-       display: flex;
-   justify-content: end;
+    display: flex;
+    justify-content: end;
 }
 .header {
    font-size: 17px; 
    font-weight: 400;
    color: #636060;
-   display: inline;
    margin-top: 33px;
    margin-right: 50px;
-
+   text-decoration: none;
 }
 #first {
     width: 100%;
